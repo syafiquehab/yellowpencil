@@ -3,7 +3,7 @@ The yellow pencil project is where **I am** going to:
 
 * Write in yellow pencil
 * Erase with a yellow eraser
-* Make changes in GIT
+* Make lots of changes in GIT
 
 | Pencils | Count    |
 | ------- | -------- |
